@@ -75,8 +75,8 @@ The following star schema is proposed as a solution, and it contains the needed 
 
 ## Project Structure
     .
-    ├── create_tables.py            # Drops and creates your tables.
-    ├── etl.py                      # Reads and processes files from song_data and log_data and loads them into your tables.
+    ├── create_tables.py            # Drops and creates the tables.
+    ├── etl.py                      # Reads and processes files from song_data and log_data and loads them into the tables.
     ├── sql_queries.py              # Contains all the sql queries for the project  
     └── dwh_template.cfg            # Rename it to dwh.cfg and add your Redshift Credentials.
 
