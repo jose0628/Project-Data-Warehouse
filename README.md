@@ -1,7 +1,7 @@
 ## Project Summary
 A Music Streaming Startup would like to get insight of the users activity on their music streaming app and get data insights to improve their services .
 This project focuses on Extracting-Transforming-Loading (ETL) process and data modeling for the songs data in a star schema. 
-The environment will set in Amazon Redshift and the project will allow to help as well to bring answers to business questions based on the data warehouse (i.e, most listened songs etc.).
+The context of the project is in Amazon Redshift and the project will allow helping as well to bring answers to business questions based on the data warehouse (i.e, most listened songs etc.).
 
 
 ## Datasets
